@@ -1,5 +1,7 @@
 # readylayerone_
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=datasalaryman.datasalaryman)
+
 🛜1️⃣
 
 Hi, I'm readylayerone_, I'm a fullstack web + Solana program developer. I'm learning everything I can from [blueshift.gg](https://blueshift.gg/#) and am working on [SolPromises.xyz](https://github.com/datasalaryman/promises-sol). 
