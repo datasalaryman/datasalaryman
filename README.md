@@ -19,4 +19,7 @@ You can view my resume [here](https://drive.google.com/file/d/1kASAdiCc0b9XV4TUM
 
 And you can DM me on Twitter/X at [@readylayerone_](https://x.com/readylayerone_).
 
+## Blog posts
+
+- [Onboarding PRs](blog/onboarding-prs/)
 
