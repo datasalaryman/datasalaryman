@@ -15,6 +15,8 @@ I've worked at a Web3 startup for almost 4 years wearing many hats. Among the th
 - A fullstack data platform which included orchestration on [dagster](https://dagster.io/), data storage on [Google Bigquery](https://cloud.google.com/bigquery?hl=en), and a presentation layer on [Redash](https://redash.io/)
 - CI/CD workflows using [Github Actions](https://github.com/features/actions) with self-hosted action runners
 
-You can view my resume [here](https://drive.google.com/file/d/1kASAdiCc0b9XV4TUMM21r9RweDw50zsS/view?usp=sharing).
+You can view my resume [here](https://drive.google.com/file/d/1kASAdiCc0b9XV4TUMM21r9RweDw50zsS/view?usp=sharing) and LinkedIn profile [here](https://www.linkedin.com/in/francis-e-ba4a61252/)
 
 And you can DM me on Twitter/X at [@readylayerone_](https://x.com/readylayerone_).
+
+
