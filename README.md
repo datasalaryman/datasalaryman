@@ -22,4 +22,4 @@ And you can DM me on Twitter/X at [@readylayerone_](https://x.com/readylayerone_
 ## Blog posts
 
 - [Onboarding PRs](blog/onboarding-prs/)
-
+- [AI is an extension of your hand](blog/ai-is-an-extension/)
