@@ -4,7 +4,7 @@
 
 🛜1️⃣
 
-Hi, I'm readylayerone_, I'm a fullstack web + Solana program developer. I'm learning everything I can from [blueshift.gg](https://blueshift.gg/#) and am working on [SolPromises.xyz](https://github.com/datasalaryman/promises-sol). 
+Hi, I'm readylayerone_, I'm a fullstack web + Solana program developer. I'm learning everything I can from [blueshift.gg](https://blueshift.gg/#) and am working on [promisekeepr.xyz](https://promisekeepr.xyz) 
 
 I've worked at a Web3 startup for almost 4 years wearing many hats. Among the things I've worked on include:
 
