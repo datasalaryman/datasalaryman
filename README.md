@@ -13,7 +13,7 @@ I've worked at a Web3 startup for almost 4 years wearing many hats. Among the th
 - An event-driven architecture for performing trades on on-chain events
 - A fullstack data platform for business metrics and data analysis
 
-You can view my resume [here](https://drive.google.com/file/d/14hapujt72p1RreKKRWTXhLXLgMmunWEu/view?usp=sharing) and LinkedIn profile [here](https://www.linkedin.com/in/francis-e-ba4a61252/)
+You can view my resume [here](https://drive.google.com/file/d/14hapujt72p1RreKKRWTXhLXLgMmunWEu/view?usp=sharing) and LinkedIn profile [here](linkedin.com/in/francis-endrinal)
 
 And you can DM me on Twitter/X at [@readylayerone](https://x.com/readylayerone).
 
