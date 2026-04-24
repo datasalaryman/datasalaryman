@@ -8,6 +8,14 @@ Hi, I'm readylayerone, a fullstack web developer currently learning Solana and s
 
 Previously spent ~4 years at a Web3 startup doing fullstack platforms, AWS infrastructure, event-driven on-chain architectures, and data analytics.
 
+## Solana Technical Weekly
+
+Every week, I break down the latest technical developments in the Solana ecosystem — from core protocol updates and client releases to SDK changes and developer tooling improvements.
+
+Read the latest on my [X profile](https://x.com/datasalaryman).
+
+![Solana Technical Weekly](assets/technical-weekly.png)
+
 ## Projects
 
 - [quic-server-from-scratch](https://github.com/datasalaryman/quic-server-from-scratch) — QUIC server in Rust
